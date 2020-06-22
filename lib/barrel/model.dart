@@ -1,0 +1,1 @@
+export 'package:weather_bloc/model/weather.dart';
